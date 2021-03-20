@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+}
+img{
+    width:300px;
+}
+#intro{
+    background: linear-gradient(#3c308a 0%,#679e73 100% );
+    padding-top: 100px;
+}
+.menu{
+    list-style:none;
+ position: absolute;
+    z-index: 10;
+    cursor: pointer;
+    margin-top: 5px;
+    color:coral;
+    
+}
+.links{
+    float: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+.links:hover{
+    background-color: beige;
+}
